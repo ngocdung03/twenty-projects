@@ -1,0 +1,11 @@
+html {
+    /* Prevent over-stretch the page */
+    box-sizing: border-box; 
+}
+
+body {
+    margin: 0;
+    /* vh stands for view full height (?) - stretch background to full height */
+    min-height: 100vh;
+    background-color: dodgerblue;
+}
