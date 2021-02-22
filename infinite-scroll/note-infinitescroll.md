@@ -1,0 +1,14 @@
+- Resource for loader: 
+    - loading.io
+    - Setting: Choose square one; Main color - black/ #cf1010; size 100; Opacity
+    - Choose SVG/ANIMATED (main benefit of SVG: smaller size, increase quality when zooming in)
+    - Register and download
+- Fonts google.com:
+    - Custom: See each font display with 'INFINITE SCROLL'
+    - Search for font Bebas Neue
+    - Select this style/Embed/Copy from @import
+    - Copy between <style></style>, paste at the top of css file.
+    - At the same time specify font-family in body
+- Source of images: 
+    - unsplash.com
+    - copy image address

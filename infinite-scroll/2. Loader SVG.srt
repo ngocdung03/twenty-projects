@@ -1,0 +1,307 @@
+1
+00:00:00,750 --> 00:00:01,710
+All righty.
+
+2
+00:00:01,800 --> 00:00:07,680
+So in this video, I'm going to show you one method for creating your very own custom animated loading
+
+3
+00:00:07,770 --> 00:00:08,280
+icon.
+
+4
+00:00:09,030 --> 00:00:11,510
+This Web site is called Loading Dock IO.
+
+5
+00:00:11,590 --> 00:00:13,260
+I'll provide a link within the course.
+
+6
+00:00:13,800 --> 00:00:19,320
+And they have a very easy to use interface where you can adjust a number of different settings and output
+
+7
+00:00:19,350 --> 00:00:20,850
+in a number of different formats.
+
+8
+00:00:21,900 --> 00:00:27,210
+You can see if we scroll down, they have a few paid options here, but that they have plenty of free
+
+9
+00:00:27,210 --> 00:00:28,590
+options as well.
+
+10
+00:00:29,430 --> 00:00:33,720
+This is a great opportunity to add your own personal style to any project.
+
+11
+00:00:34,410 --> 00:00:39,150
+I'm going to show you something basic, but I encourage you to take some time and experiment.
+
+12
+00:00:40,150 --> 00:00:42,460
+I'm going to start by changing the bass icon.
+
+13
+00:00:42,490 --> 00:00:45,610
+So instead of this, I actually prefer this cube here.
+
+14
+00:00:46,300 --> 00:00:47,500
+So I'm going to click on this.
+
+15
+00:00:48,160 --> 00:00:50,800
+And then you can see that it's changed in our settings here.
+
+16
+00:00:51,900 --> 00:00:58,650
+And the first cool thing about this is we have the option of actually using theme's for our colors.
+
+17
+00:00:59,280 --> 00:01:07,680
+So you can see we have the Lion King, Frozen Dragon Ball and even stuff like 7-Eleven or Netflix.
+
+18
+00:01:07,980 --> 00:01:12,450
+So you can actually add a custom color theme that matches a certain brand.
+
+19
+00:01:12,480 --> 00:01:12,990
+If you want.
+
+20
+00:01:13,050 --> 00:01:13,920
+Which is pretty cool.
+
+21
+00:01:15,090 --> 00:01:18,690
+I'm going to keep it simple and I'm just going to manually add colors.
+
+22
+00:01:19,200 --> 00:01:26,190
+I want black for the main squares and I will use red for the accent here.
+
+23
+00:01:26,940 --> 00:01:31,530
+So if I click on it, it opens up a color selector, I'm going to switch that to black.
+
+24
+00:01:32,190 --> 00:01:35,490
+And then for this, I'm just going to switch this to like.
+
+25
+00:01:37,150 --> 00:01:38,270
+A dark red.
+
+26
+00:01:39,790 --> 00:01:40,720
+Something like that.
+
+27
+00:01:40,750 --> 00:01:41,830
+Something close to that.
+
+28
+00:01:41,890 --> 00:01:43,010
+Yeah, that's pretty good.
+
+29
+00:01:43,370 --> 00:01:47,140
+OK, and you can see that we have some other options here.
+
+30
+00:01:48,290 --> 00:01:53,090
+And for me personally, I'm only going to change one other option, and that is the size.
+
+31
+00:01:53,150 --> 00:01:57,920
+So instead of it being two hundred pixels, I'm going to make it 100 pixels.
+
+32
+00:01:58,550 --> 00:02:01,340
+The sliding bar is a nice touch.
+
+33
+00:02:01,400 --> 00:02:04,010
+You can see that I'm dramatically zooming in and out.
+
+34
+00:02:04,580 --> 00:02:09,620
+But if you want to be more precise, you can actually click on the pencil icon and just enter in the
+
+35
+00:02:09,620 --> 00:02:10,370
+size you want.
+
+36
+00:02:10,880 --> 00:02:11,820
+So I want 100.
+
+37
+00:02:11,900 --> 00:02:12,530
+Exactly.
+
+38
+00:02:13,160 --> 00:02:14,330
+And then I'm going to press enter.
+
+39
+00:02:15,380 --> 00:02:17,030
+And that's great.
+
+40
+00:02:17,120 --> 00:02:17,930
+I'm done with that.
+
+41
+00:02:18,590 --> 00:02:20,930
+So I'm done customizing this.
+
+42
+00:02:21,110 --> 00:02:23,300
+I actually do want it to be transparent as well.
+
+43
+00:02:23,480 --> 00:02:24,140
+That's important.
+
+44
+00:02:25,200 --> 00:02:28,470
+And now I'm going to actually download this.
+
+45
+00:02:28,770 --> 00:02:33,510
+So in this case, I'm going to download it as an animated as the chief.
+
+46
+00:02:34,260 --> 00:02:38,550
+So if you're not familiar with SVOD, they stand for a scalable vector graphics.
+
+47
+00:02:39,360 --> 00:02:43,110
+It uses coordinates in 2D space to create lines and shapes.
+
+48
+00:02:43,830 --> 00:02:48,090
+The image you are seeing is actually made of code, unlike a traditional image file.
+
+49
+00:02:48,750 --> 00:02:54,930
+The main benefits are that the file sizes are smaller and you can make an SPG any size.
+
+50
+00:02:55,020 --> 00:02:56,580
+And it would look just as sharp.
+
+51
+00:02:57,210 --> 00:03:03,060
+Whereas if you zoom in on an image, the more you zoom in, the lower the quality gets.
+
+52
+00:03:03,930 --> 00:03:04,160
+OK.
+
+53
+00:03:04,320 --> 00:03:08,490
+I'm going to click animated here and I'm gonna be prompted to log in.
+
+54
+00:03:08,520 --> 00:03:14,340
+So it's totally free, but you're going to need to log in with your email or you can sign up.
+
+55
+00:03:14,760 --> 00:03:16,010
+So I'm going to do that.
+
+56
+00:03:17,520 --> 00:03:25,110
+Okay, so now that I'm logged in, I'm going to click SPG animated again and I'm going to go over here
+
+57
+00:03:25,110 --> 00:03:26,250
+to free download.
+
+58
+00:03:26,730 --> 00:03:28,560
+And you can see that we have our file here.
+
+59
+00:03:28,560 --> 00:03:30,690
+You can see it's transparent, which is perfect.
+
+60
+00:03:31,260 --> 00:03:32,640
+And I'm going to download it.
+
+61
+00:03:33,810 --> 00:03:39,210
+And you can see we have a file here and I'm just going to copy that over to my desktop.
+
+62
+00:03:40,110 --> 00:03:43,470
+OK, so you can see we have our file on our desktop here.
+
+63
+00:03:43,980 --> 00:03:47,900
+I'm going to just rename it to be Loader Dartez Viji.
+
+64
+00:03:48,570 --> 00:03:53,460
+And the first thing I'm going to do is I'm gonna open it with Visual Studio Code.
+
+65
+00:03:54,640 --> 00:03:59,170
+So we can see here that it is just code.
+
+66
+00:03:59,260 --> 00:04:01,560
+This is the entirety of our loading animation.
+
+67
+00:04:02,500 --> 00:04:06,340
+Each of these rectangles is one of the rectangles within the cube.
+
+68
+00:04:06,520 --> 00:04:12,400
+You can see it has a y axis and has an x axis and it has a width and a height and a full color as well.
+
+69
+00:04:12,880 --> 00:04:18,850
+If you wanted to actually customize even further, you could change the colors in the code and use it
+
+70
+00:04:18,850 --> 00:04:19,390
+that way.
+
+71
+00:04:20,230 --> 00:04:26,770
+And in terms of actually putting this into your project, you could actually just copy this code wherever
+
+72
+00:04:26,770 --> 00:04:27,940
+you want in your project.
+
+73
+00:04:28,060 --> 00:04:35,650
+But the other option you have is actually just using an image element and setting this as the source.
+
+74
+00:04:35,980 --> 00:04:41,560
+So that's something we're going to do in the next video when we integrate this loader into our project.
+
+75
+00:04:42,310 --> 00:04:42,700
+All right.
+
+76
+00:04:42,790 --> 00:04:46,030
+So I'll see you in the next one where we start setting up our project.
+
+77
+00:04:46,450 --> 00:04:47,160
+Bye for now.
