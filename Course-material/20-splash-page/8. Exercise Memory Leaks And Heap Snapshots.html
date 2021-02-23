@@ -1,0 +1,8 @@
+<p>Phew!&nbsp;That's a lot of memory stuff to memorize<em> (HA!&nbsp;Get it?)</em>. Here is a quick exercise for you to finish off this section:<br><br>What happens with you remove the memory from the last video:</p><pre class="prettyprint linenums">let count = 1
+const memory = { 
+  [count]: Array(1000).fill('*')
+}
+function changeBackground(number) {
+  count++
+  memory[count] = Array(1000).fill('*')
+....</pre><p>??<br></p><p><br></p><p><br></p><p><br></p><p><br>Hopefully the memory clears!<br><br>For further reading about how to read the heap snapshot, I recommend:<br><br><a href="https://developers.google.com/web/tools/chrome-devtools/memory-problems/heap-snapshots" rel="noopener noreferrer" target="_blank"><strong>Record Heap Snapshots</strong></a></p><p><a href="https://developers.google.com/web/tools/chrome-devtools/memory-problems" rel="noopener noreferrer" target="_blank"><strong>How to Fix Memory Problems</strong></a></p>
